@@ -715,7 +715,7 @@ contact.html
 
 ![alt text](<Screenshot 2024-12-18 105531.png>)
 
-![alt text](<Screenshot 2024-12-18 105617.png>)
+![Screenshot 2024-12-18 105554](https://github.com/user-attachments/assets/fe322fcf-6df7-427b-afe9-cf0ffd219fba)
 
 ![alt text](<Screenshot 2024-12-18 105617.png>)
 
